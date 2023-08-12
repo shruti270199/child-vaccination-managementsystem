@@ -1,7 +1,7 @@
 # child-vaccination-management-system.
 
 To run 
-`$ npm install marked`
+`$ npm run server`
 
 localhost port
 `$ loclhost8000`
