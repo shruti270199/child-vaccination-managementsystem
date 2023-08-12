@@ -4,4 +4,4 @@ To run
 `$ npm run server`
 
 localhost port
-`$ loclhost8000`
+`$ localhost:8000`
