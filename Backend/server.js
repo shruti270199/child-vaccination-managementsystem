@@ -2,12 +2,14 @@ import express from "express";
 import colours from "colours";
 import dotenv from "dotenv";
 import morgan from "morgan";
+import mongoose from "mongoose";
 import connectDB from "./db.js";
 
 dotenv.config();
 
 //db config
 connectDB()
+
 
 const app = express()
 
